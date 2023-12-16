@@ -1,4 +1,4 @@
-# Hello world, I'm Murray! 👋
+# Hello world, I'm Murray! 👋🌏
 
 ## About Me
 As a full-stack software developer with a knack for Python and web development, my journey in coding goes beyond scripting to building dynamic, reactive web applications. I've embraced the challenge of learning JavaScript and React, complementing my server-side expertise with client-side rendering skills.
@@ -22,6 +22,10 @@ As a full-stack software developer with a knack for Python and web development, 
 - Dive into my repositories to see my journey and growth as a developer.
 - Reach out for collaborations, opportunities, or discussions about technology and coding adventures.
 - [[LinkedIn Profile]](https://www.linkedin.com/in/murray-sinclair-6a0922172/)
+
+## Pre-September 2023 
+- **Various Python coding projects**: I engaged in various projects. Scripting and Server-side Rendering web pages. Before engaging with the Bootcamp through Dev Academy I hadn't delved into Git and Github. Which represents this lack of projects displayed
+- **December 2023**: Working to get many previous projects uplaoded and stored to Github Repositories. Currently in the process of tidying up my profile to represent those previous projects ⏳
 
 
 
