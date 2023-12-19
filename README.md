@@ -11,12 +11,10 @@ As a full-stack software developer with a knack for Python and web development, 
 
 ## Bootcamp and Beyond 🚀
 - **Bootcamp Breakthrough**: Attended a boot camp in September 2023, where I solidified my understanding of Git, GitHub, and collaborative development (representing delayed projects added at this time). 
-- **Continuous Evolution**: Regularly revisiting and refining early projects, demonstrating my ongoing learning and adaptation in technology. 
 
 ## Current Focus and Aspirations 🔍
 - **Open to Opportunities**: Actively seeking roles that allow me to further explore web development, particularly in areas combining server-side logic with dynamic front-end frameworks. 
 - **Passionate Collaboration**: Eager to join forces with other developers, contribute to impactful projects, and share knowledge within the community. 
-- **Community Contribution**: Committed to helping others on their coding journey, drawing from my diverse experiences across different technologies. 
 
 ## Let's Connect 🤙
 - Dive into my repositories to see my journey and growth as a developer. 
